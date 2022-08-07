@@ -1,0 +1,9 @@
+//AND
+print(true && true)      
+print(true && false)     
+
+//OR
+print(false || true)      
+
+// Not
+print(!false) 
